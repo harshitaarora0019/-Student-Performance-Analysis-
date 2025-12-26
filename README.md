@@ -7,14 +7,6 @@
 
 <hr>
 
-<h2>📊 Power BI Dashboard</h2>
-
-<p align="center">
-  <img src="Student Performace.png" alt="Power BI Dashboard" width="900">
-</p>
-
-<hr>
-
 <h2>📌 Overview</h2>
 <p>
 This project analyzes student academic performance using <b>Power BI</b> to understand
@@ -40,4 +32,12 @@ how attendance, gender, section, and house influence final marks and results.
   <li>Practical understanding of mean (average)</li>
   <li>Data visualization and storytelling</li>
   <li>Basic analytical thinking using real-world data</li>
+
+  <h2>📊 Power BI Dashboard</h2>
+
+<p align="center">
+  <img src="Student Performace.png" alt="Power BI Dashboard" width="900">
+</p>
+
+<hr>
 </ul>
