@@ -34,7 +34,31 @@ how attendance, gender, section, and house influence final marks and results.
   <li>Basic analytical thinking using real-world data</li>
 
   <h2>📊 Power BI Dashboard</h2>
+  
+<h2>📁 Project Files</h2>
 
+<table>
+  <thead>
+    <tr>
+      <th align="left">File</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>README.md</code></td>
+      <td>Project documentation and overview</td>
+    </tr>
+    <tr>
+      <td><code>Student Performance.png</code></td>
+      <td>Power BI dashboard screenshot showing student performance insights</td>
+    </tr>
+    <tr>
+      <td><code>Student Performance.xlsx</code></td>
+      <td>Dataset used for analysis including attendance, marks, and demographics</td>
+    </tr>
+  </tbody>
+</table>
 <p align="center">
   <img src="Student Performace.png" alt="Power BI Dashboard" width="900">
 </p>
