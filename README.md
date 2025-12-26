@@ -10,7 +10,7 @@
 <h2>📊 Power BI Dashboard</h2>
 
 <p align="center">
-  <img src="" alt="Power BI Dashboard" width="900">
+  <img src="Student Performace.png" alt="Power BI Dashboard" width="900">
 </p>
 
 <hr>
